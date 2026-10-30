@@ -6,7 +6,7 @@ O objetivo é pegar as bolinhas verdes enquanto desvia dos vírus vermelhos que 
 
 ---
 
-## 🕹️ Como jogar
+## Como jogar
 
 - **Bolinhas verdes:** Pegue para ganhar pontos.
 - **Vírus vermelhos:** Não encoste neles com o personagem azul, senão é Game Over.
@@ -15,7 +15,7 @@ O objetivo é pegar as bolinhas verdes enquanto desvia dos vírus vermelhos que 
 
 ---
 
-## 🎮 Controles
+## Controles
 
 | Ação | Teclado | Controle |
 | :--- | :--- | :--- |
@@ -25,7 +25,7 @@ O objetivo é pegar as bolinhas verdes enquanto desvia dos vírus vermelhos que 
 
 ---
 
-## 💾 Download (Windows, Linux e Mac)
+## Download (Windows, Linux e Mac)
 
 Você pode baixar os executáveis já prontos na aba de **[Releases](../../releases)**:
 
@@ -51,11 +51,11 @@ Você pode baixar os executáveis já prontos na aba de **[Releases](../../relea
 
 Se preferir não baixar nada, o jogo roda direto pelo navegador:
 
-👉 **[Jogar no navegador](https://pablosantostl.github.io/trabalho-eds2/)**
+**[Jogar no navegador](https://pablosantostl.github.io/trabalho-eds2/)**
 
 ---
 
-## 🛠️ Rodando no Picotron
+## Rodando no Picotron
 
 Caso você tenha o Picotron instalado e queira rodar o código direto:
 
