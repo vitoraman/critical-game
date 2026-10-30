@@ -1,10 +1,8 @@
-# critical
+# Critical
 
 Jogo arcade em 2D feito em Lua para o Picotron.
 
 O objetivo é pegar as bolinhas verdes enquanto desvia dos vírus vermelhos que ficam rebatendo na tela. A cada bolinha coletada, mais vírus aparecem e a velocidade deles aumenta com o tempo.
-
----
 
 ## Como jogar
 
@@ -13,15 +11,14 @@ O objetivo é pegar as bolinhas verdes enquanto desvia dos vírus vermelhos que 
 - **Dash:** Use para dar uma arrancada rápida e escapar quando ficar encurralado.
 - **Overdrive:** Colete 5 bolinhas seguidas sem deixar a barra de combo zerar. Quando ativa, os vírus ficam verdes e vulneráveis — encoste neles para destruí-los e somar mais pontos.
 
----
 
 ## Controles
 
 | Ação | Teclado | Controle |
 | :--- | :--- | :--- |
-| **Mover** | Setas direcionais | Analógico / D-Pad |
-| **Dash** | Tecla `X` ou `V` | Botão `B` |
-| **Iniciar / Reiniciar** | Tecla `X` ou `V` | Botão `B` |
+| **Mover** | Setas direcionais/WASD | Analógico / D-Pad |
+| **Dash** | Tecla `Z` ou `ESPAÇO` | Botão `B` |
+| **Iniciar / Reiniciar** | Tecla `Z` ou `ESPAÇO` | Botão `B` |
 
 ---
 
@@ -65,6 +62,6 @@ Caso você tenha o Picotron instalado e queira rodar o código direto:
    ```
 2. No console do Picotron, abra a pasta e digite:
    ```text
-   load main.lua
+   load critical.lua
    run
    ```
