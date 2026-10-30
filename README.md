@@ -4,6 +4,10 @@ Jogo arcade em 2D feito em Lua para o Picotron.
 
 O objetivo é pegar as bolinhas verdes enquanto desvia dos vírus vermelhos que ficam rebatendo na tela. A cada bolinha coletada, mais vírus aparecem e a velocidade deles aumenta com o tempo.
 
+<video src="Introducao.mp4" controls="controls" width="100%">
+  O teu navegador não suporta a tag de vídeo.
+</video>
+
 ### Autores
 
 Projeto desenvolvido para a disciplina de Engenharia de Software 2.
